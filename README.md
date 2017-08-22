@@ -176,4 +176,4 @@
 * cash out
 * review the route
 * inform about the route to relatives or friends
-* Distribute common equipment
+* distribute common equipment
