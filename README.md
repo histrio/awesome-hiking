@@ -166,14 +166,14 @@
 
 ## TODO
 
-*То, что неплохо было бы сделать заранее.*
+*What would be nice to do in advance.*
 
-* зарядить все аккумуляторы
-* заменить старые батарейки
-* наточить ножи
-* проверить состояние палатки
-* отмыть котелки
-* снять наличность
-* прикинуть маршрут
-* сообщить о маршруте родным или знакомым
-* распределить "общую" снагяру
+* charge all rechargeable batteries
+* replace non rechargeable batteries
+* sharpen kinves
+* check out the tent
+* clean the pots
+* cash out
+* review the route
+* inform about the route to relatives or friends
+* Distribute common equipment
