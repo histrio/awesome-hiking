@@ -6,7 +6,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
  - *This is not necessary or sufficient list.* Used for self-examination, to avoid forgetting even basic items. 
  - *Some items are optional for the weather or time of year.* 
- - *Писалось под себя и, скорее всего, не учитывают ваших личных предпочтений.* Тем не менее, исправления и дополнения категорически приветствуются.
+ - *It was written for myself and will likely not take into account your personal preferences.* However, corrections and additions are strongly welcomed.
  - *English is not my native language.* But I'll try.
 
 ## Content 
