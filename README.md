@@ -24,39 +24,39 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Navigation [↑](#content)
 
-*То, что поможет вам добраться именно туда куда вам надо. И обратно.*
+*What will help you get to where you need. And back.*
 
-* [ ] бумажная карта
-* [ ] компас
-* [ ] навигатор*
+* [ ] paper map
+* [ ] compass
+* [ ] gps-navigator*
 
 ### Communication [↑](#content)
 
-* [ ] телефон
-* [ ] рация
+* [ ] mobile-phone
+* [ ] walkie talkie
 
 ### Illumination [↑](#content)
 
-*То, что поможет в темное время.*
+*What will help in hte dark.*
 
-* [ ] фонарик (налобник, ручной)
-* [ ] лампа (люминисцентная, газовая)
-* [ ] химический источник света
+* [ ] flashlight (headlamp, hand-held)
+* [ ] lamp (led, gas)
+* [ ] chemical light source
 
 ### Documents [↑](#content)
 
-* [ ] паспорт - ламинированная копия
-* [ ] полис ОМС
-* [ ] сертификаты ножей
-* [ ] билеты
-* [ ] разрешения и пропуска
-* [ ] "визитка" в верхний клапан рюкзака
-* [ ] кошелек
-* [ ] заначка (отдельно от кошелька)
+* [ ] any ID (laminated copy)
+* [ ] medical insurance
+* [ ] certificates for knives
+* [ ] tickets
+* [ ] permits and passes
+* [ ] namecard ina a backpack
+* [ ] wallet
+* [ ] stash separated from a wallet
 
 ### Bivouac [↑](#content)
 
-*То, что даст на следующий день двигаться дальше.*
+**What will give you to move on.**
 
 * [ ] палатка (тент, Гамак)
 * [ ] пенка
