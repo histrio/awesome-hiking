@@ -60,39 +60,39 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 **What will give you to move on.**
 
-* [ ] палатка (тент, Гамак)
+* [ ] tent (hammock)
 * [ ] slipping pad
-* [ ] спальник
-* [ ] газовая плитка
-* [ ] топор + пила
-* [ ] средства розжига (зажигалка, пропарафиненные и/или герметично упакованные спички, трут / береста, оргстекло)
-* [ ] котелок
-* [ ] костровой трос / тренога
+* [ ] slipping bag
+* [ ] gas stove
+* [ ] axe (saw)
+* [ ] fire ignitions (lighter, vacuum-packed matches, tinder / birch, plexiglass)
+* [ ] bowler
+* [ ] metal cable / campfire tripod
 
 ### Food [↑](#content)
 
 *То, что дает энергию.*
 
 * [ ] water
-* [ ] орехи + сухофрукты
+* [ ] nuts + dried fruits
 * [ ] chocolate
 * [ ] salt
-* [ ] заварка (пакетики, крупный лист)
-* [ ] кисель
+* [ ] tea brew (tea bags, large leaf)
+* [ ] kissel
 
 ### Clothes [↑](#content)
 
-* [ ] стельки
-* [ ] дождевик
-* [ ] смена носков
-* [ ] смена трусов
-* [ ] подшлемник
-* [ ] гамаши
-* [ ] москитка
-* [ ] теплый свитер с шеей (пригождается даже летом)
-* [ ] головной убор (бандана, панама, шемаг)
-* [ ] тапки для стоянок
-* [ ] плавки
+* [ ] insoles
+* [ ] raincoat
+* [ ] change of socks
+* [ ] change of underpants
+* [ ] balaclava
+* [ ] gaiter
+* [ ] mosquito hat
+* [ ] warm sweater with neck (comes in handy even in the summer)
+* [ ] headgear (bandana, Panama, shemagh)
+* [ ] camp slippers
+* [ ] swimming suit
 
 ### First Aid [↑](#content)
 
@@ -143,11 +143,11 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] wristwatch
 * [ ] ПРСТ (СЛГ)
   * showel 
-  * расческа
+  * hairbrush
   * toothbrush, toothpaste
   * toilet paper
-  * салфетки влажные
-* [ ] пакеты (попрочнее для мусора, обычные)
+  * wet wipes
+* [ ] trash bags 
 * [ ] wistle
 * [ ] row
 * [ ] spaceblanket
