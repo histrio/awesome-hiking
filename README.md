@@ -1,5 +1,7 @@
 # Hiking checklist [[ru]](./README.ru.md)
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A highly subjective list of the items you may need in a simple camping trip.
 
 ## Disclaimers:
