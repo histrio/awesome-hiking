@@ -58,7 +58,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Bivouac [↑](#content)
 
-**What will give you to move on.**
+*What will give you to move on.*
 
 * [ ] tent (hammock)
 * [ ] slipping pad
@@ -71,7 +71,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Food [↑](#content)
 
-*То, что дает энергию.*
+*What gives an energy.*
 
 * [ ] water
 * [ ] nuts + dried fruits
@@ -96,20 +96,16 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### First Aid [↑](#content)
 
-* [ ] средства перевязки
-  * лейкопластырь рулоном
-  * бинт
-  * вата
-  * набор бактерицидных пластырей (на синтетической основе)
-* [ ] обеззараживание
-  * спиртовый раствор йода
-  * йодинол (водяной раствор йода)
-  * перекись водорода
-* [ ] защитные средства
-  * детский крем
-  * защитный крем
-  * увлажняющий крем
-* [ ] мазь местного согревающего действия
+* [ ] dressings
+  * adhesive plaster (bactericidal,  patches)
+  * bandage
+  * sterile cotton wool
+  * elastic bandage
+* [ ] disinfection
+  * iodine solution (alcohol, water)
+  * peroxide
+* [ ] cream (baby, protective, moisturizing)
+* [ ] local warming ointment
 * [ ] эластичный бинт
 * [ ] средстве от мозолей
 * [ ] теймурова паста
