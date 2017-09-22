@@ -119,23 +119,22 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Unsorted [↑](#content)
 
-*То, что не нашло своей категории*
+*What doesn't fit in any other category*
 
-* [ ] репеллент
+* [ ] repellent
 * [ ] mp3-player
-* [ ] влажные салфетки
-* [ ] чехол на рюкзак
-* [ ] грелки (химические и/или каталитические)
+* [ ] waterproof cover for backpack
+* [ ] warmers (catalytic, chemical)
 * [ ] batterys 
-* [ ] gloves (хозяйственные, теплые)
+* [ ] gloves (working, wastable)
 * [ ] sitting pad
 * [ ] КЛМН
-  * кружка
-  * ложка
-  * миска
-  * нож (швейцарский, туристический, который не жалко, картофелечистка)
+  * mug
+  * spoon 
+  * bowl
+  * knife (swissarmy, hiking, wastable, potato peeler)
 * [ ] toothpicks
-* [ ] хозпакет (нитки и иголки)
+* [ ] yarn and needles
 * [ ] wristwatch
 * [ ] ПРСТ (СЛГ)
   * showel 
@@ -148,8 +147,8 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] row
 * [ ] spaceblanket
 * [ ] ~~book~~
-* [ ] пишущие предметы (ручка, карандаш)
-* [ ] губная гармошка (гитара, укулеле, бонго и т.п)
+* [ ] writing items (pen, pencil)
+* [ ] entertainment (harmonica, guitar, ukulele, etc.)
 * [ ] mirror
 
 ### TODO [↑](#content)
