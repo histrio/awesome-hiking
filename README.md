@@ -1,6 +1,6 @@
 # Awesome Hiking Checklist [[ru]](./README.ru.md)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://img.shields.io/badge/Awesome-Checklist-blue.svg)](http://checklist.yingjiehu.com/)
 
 A highly subjective list of the items you may need in a simple camping trip.
 
@@ -34,7 +34,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Communication [↑](#content)
 
-* [ ] mobile-phone
+* [ ] phone
 * [ ] walkie talkie
 
 ### Illumination [↑](#content)
@@ -71,7 +71,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Food [↑](#content)
 
-*What gives an energy.*
+*What gives energy.*
 
 * [ ] water
 * [ ] nuts + dried fruits
