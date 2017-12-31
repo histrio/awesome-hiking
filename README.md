@@ -106,15 +106,15 @@ A highly subjective list of the items you may need in a simple camping trip.
   * peroxide
 * [ ] cream (baby, protective, moisturizing)
 * [ ] local warming ointment
-* [ ] эластичный бинт
-* [ ] средстве от мозолей
+* [ ] remedy for corns
 * [ ] теймурова паста
-* [ ] антигистаминное (Супрастин, Драмина)
-* [ ] обезболивающие (Цитрамон, Нимесулид, Ибупрофен, Дротаверин)
-* [ ] регидратация (Регидрон)
-* [ ] заживляющее (Пантенол, клей БФ)
-* [ ] при диарее (Лоперамид, Денол)
-* [ ] местное антигистаминное (Фенистил)
+* [ ] antihistamine 
+  * pills (Супрастин, Драмина)
+  * localized ointment (Фенистил)
+* [ ] painkillers (Цитрамон, Нимесулид, Ибупрофен, Дротаверин)
+* [ ] rehydration (Регидрон)
+* [ ] healing remedies (Пантенол, клей БФ)
+* [ ] remedies for diarrhea (Лоперамид, Денол)
 * [ ] specific 
 
 ### Unsorted [↑](#content)
