@@ -62,12 +62,12 @@ A highly subjective list of the items you may need in a simple camping trip.
 *What will give you to move on.*
 
 * [ ] tent (hammock)
-* [ ] slipping pad
-* [ ] slipping bag
+* [ ] sleeping pad
+* [ ] sleeping bag
 * [ ] gas stove
 * [ ] axe (saw)
 * [ ] fire ignitions (lighter, vacuum-packed matches, tinder / birch, plexiglass)
-* [ ] bowler
+* [ ] bowler (cook pot)
 * [ ] metal cable / campfire tripod
 
 ### Food [↑](#content)
@@ -129,7 +129,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] batterys 
 * [ ] gloves (working, wastable)
 * [ ] sitting pad
-* [ ] КЛМН
+* [ ] Utensil
   * mug
   * spoon 
   * bowl
