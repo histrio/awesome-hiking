@@ -23,6 +23,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [First Aid](#first-aid-)
 * [Unsorted](#unsorted-)
 * [TODO](#todo-)
+* [Donts](#donts--)
 
 ### Navigation [↑](#content)
 
@@ -149,7 +150,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] ~~book~~
 * [ ] writing items (pen, pencil)
 * [ ] entertainment (harmonica, guitar, ukulele, etc.)
-* [ ] mirror
+* [ ] mirror (tiny and unbreakable)
 
 ### TODO [↑](#content)
 
@@ -164,3 +165,12 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] review the route
 * [ ] inform about the route to relatives or friends
 * [ ] distribute common equipment
+
+### DONTS
+
+* No. Don't do it *
+
+* Do not take with you: 
+  * any glass
+  * buzz
+* Do not wear a new (unworn) shoes
