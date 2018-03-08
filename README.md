@@ -23,7 +23,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [First Aid](#first-aid-)
 * [Unsorted](#unsorted-)
 * [TODO](#todo-)
-* [Donts](#donts--)
+* [Donts](#donts-)
 
 ### Navigation [↑](#content)
 
