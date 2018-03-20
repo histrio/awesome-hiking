@@ -40,7 +40,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Illumination [↑](#content)
 
-*What will help in hte dark.*
+*What will help in the dark.*
 
 * [ ] flashlight (headlamp, hand-held)
 * [ ] lamp (led, gas)
