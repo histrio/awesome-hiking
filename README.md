@@ -168,7 +168,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### DONTS [↑](#content)
 
-* No. Don't do it *
+*No. Don't do it *
 
 * Do not take with you: 
   * any glass
