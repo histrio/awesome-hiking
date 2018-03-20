@@ -53,7 +53,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] certificates for knives
 * [ ] tickets
 * [ ] permits and passes
-* [ ] namecard ina a backpack
+* [ ] namecard in a backpack
 * [ ] wallet
 * [ ] stash separated from a wallet
 
@@ -139,7 +139,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] wristwatch
 * [ ] ПРСТ (СЛГ)
   * showel 
-  * hairbrush
+  * ~~hairbrush~~
   * toothbrush, toothpaste
   * toilet paper
   * wet wipes
