@@ -126,7 +126,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] mp3-player
 * [ ] waterproof cover for backpack
 * [ ] warmers (catalytic, chemical)
-* [ ] batterys 
+* [ ] batteries 
 * [ ] gloves (working, wastable)
 * [ ] sitting pad
 * [ ] Utensil
