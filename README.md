@@ -103,8 +103,8 @@ A highly subjective list of the items you may need in a simple camping trip.
   * sterile cotton wool
   * elastic bandage
 * [ ] disinfection
-  * iodine solution (alcohol, water)
-  * peroxide
+  * miramistin / chlorhexidine
+  * alcohol wipes
 * [ ] cream (baby, protective, moisturizing)
 * [ ] local warming ointment
 * [ ] remedy for corns
