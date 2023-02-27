@@ -27,11 +27,11 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### Navigation [↑](#content)
 
-*What will help you get to where you need. And back.*
+*What will help you get to where you need to go. And back.*
 
 * [ ] paper map
 * [ ] compass
-* [ ] gps-navigator*
+* [ ] gps
 
 ### Communication [↑](#content)
 
@@ -45,6 +45,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] flashlight (headlamp, hand-held)
 * [ ] lamp (led, gas)
 * [ ] chemical light source
+* [ ] candle
 
 ### Documents [↑](#content)
 
@@ -57,18 +58,20 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] wallet
 * [ ] stash separated from a wallet
 
-### Bivouac [↑](#content)
+### Shelter [↑](#content)
 
-*What will give you to move on.*
+*What you will sleep in.*
 
-* [ ] tent (hammock)
+* [ ] tent or hammock
 * [ ] sleeping pad
-* [ ] sleeping bag
-* [ ] gas stove
-* [ ] axe (saw)
-* [ ] fire ignitions (lighter, vacuum-packed matches, tinder / birch, plexiglass)
-* [ ] bowler (cook pot)
-* [ ] metal cable / campfire tripod
+* [ ] sleeping bag or quilt
+
+*What you will prepare food with*
+* [ ] stove (fuel canister, liquid fuel)
+* [ ] saw for firewood (safer than Axe!)
+* [ ] fire lighting (lighter, matches, tinder or fire starters)
+* [ ] pots and pans
+* [ ] grill, campfire tripod
 
 ### Food [↑](#content)
 
@@ -78,31 +81,35 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] nuts + dried fruits
 * [ ] chocolate
 * [ ] salt
-* [ ] tea brew (tea bags, large leaf)
-* [ ] kissel
+* [ ] tea / coffee
+* [ ] dehydrated or freeze dried meals
+* [ ] vacuum packed food (store bought like tuna or salmon, home made with vacuum sealer)
+* [ ] fresh food for shorter trips
+* [ ] frozen food for longer trips (weather dependent)
 
 ### Clothes [↑](#content)
 
 * [ ] insoles
-* [ ] raincoat
+* [ ] raincoat / rain pants
 * [ ] change of socks
 * [ ] change of underpants
-* [ ] balaclava
-* [ ] gaiter
-* [ ] mosquito hat
+* [ ] warm hat, warm gloves, warm layers
+* [ ] gaiters
+* [ ] bug net hat
 * [ ] warm sweater with neck (comes in handy even in the summer)
-* [ ] headgear (bandana, Panama, shemagh)
-* [ ] camp slippers
-* [ ] swimming suit
+* [ ] headgear (bandana, shemagh)
+* [ ] camp shoes
+* [ ] swim suit
+* [ ] leather gloves
 
 ### First Aid [↑](#content)
 
 * [ ] dressings
   * adhesive plaster (bactericidal,  patches)
-  * bandage
+  * bandages
   * sterile cotton wool
   * elastic bandage
-* [ ] disinfection
+* [ ] disinfectant
   * miramistin / chlorhexidine
   * alcohol wipes
 * [ ] cream (baby, protective, moisturizing)
@@ -127,30 +134,28 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] waterproof cover for backpack
 * [ ] warmers (catalytic, chemical)
 * [ ] batteries 
-* [ ] gloves (working, wastable)
+* [ ] gloves (working, washable)
 * [ ] sitting pad
-* [ ] Utensil
+* [ ] Utensils
   * mug
   * spoon 
   * bowl
-  * knife (swissarmy, hiking, wastable, potato peeler)
+  * knife (swissarmy, hiking, washable, potato peeler)
 * [ ] toothpicks
-* [ ] yarn and needles
+* [ ] sewing kit
 * [ ] wristwatch
 * [ ] ПРСТ (СЛГ)
-  * showel 
+  * shovel 
   * ~~hairbrush~~
   * toothbrush, toothpaste
   * toilet paper
   * wet wipes
 * [ ] trash bags 
-* [ ] wistle
-* [ ] row
-* [ ] spaceblanket
+* [ ] whistle
 * [ ] ~~book~~
-* [ ] writing items (pen, pencil)
+* [ ] writing items (pen, pencil, notepad/notebook)
 * [ ] entertainment (harmonica, guitar, ukulele, etc.)
-* [ ] mirror (tiny and unbreakable)
+* [ ] mirror (plastic)
 
 ### TODO [↑](#content)
 
@@ -158,19 +163,17 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 * [ ] charge all rechargeable batteries
 * [ ] replace non rechargeable batteries
-* [ ] sharpen kinves
-* [ ] check out the tent
+* [ ] sharpen knives
+* [ ] test out the tent
 * [ ] clean the pots
-* [ ] cash out
+* [ ] get cash out of the bank
 * [ ] review the route
-* [ ] inform about the route to relatives or friends
-* [ ] distribute common equipment
+* [ ] inform relatives / friends about your route plan
+* [ ] break in new shoes and boots
+* [ ] test all new gear close to home
 
 ### DONTS [↑](#content)
 
 *No. Don't do it *
 
-* Do not take with you: 
-  * any glass
-  * buzz
-* Do not wear a new (unworn) shoes
+* Leave the glass bottles at home
