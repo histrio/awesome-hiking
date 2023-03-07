@@ -65,6 +65,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] tent or hammock
 * [ ] sleeping pad
 * [ ] sleeping bag or quilt
+* [ ] tarp
 
 *What you will prepare food with*
 * [ ] stove (fuel canister, liquid fuel)
@@ -77,7 +78,6 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 *What gives energy.*
 
-* [ ] water
 * [ ] nuts + dried fruits
 * [ ] chocolate
 * [ ] salt
@@ -86,6 +86,15 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] vacuum packed food (store bought like tuna or salmon, home made with vacuum sealer)
 * [ ] fresh food for shorter trips
 * [ ] frozen food for longer trips (weather dependent)
+
+### Water [↑](#content)
+
+*Water is life.*
+
+* [ ] water bottles (to carry clean water in)
+* [ ] filter and pump (to process water and remove bacteria/viruses - depends on filter!)
+* [ ] kettle (bring water to a strong boil for several minutes to kill life in it)
+* [ ] purification tablets (in case filter stops working)
 
 ### Clothes [↑](#content)
 
@@ -100,6 +109,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] headgear (bandana, shemagh)
 * [ ] camp shoes
 * [ ] swim suit
+* [ ] water shoes
 * [ ] leather gloves
 
 ### First Aid [↑](#content)
@@ -129,7 +139,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 *What doesn't fit in any other category*
 
-* [ ] repellent
+* [ ] bug repellent
 * [ ] mp3-player
 * [ ] waterproof cover for backpack
 * [ ] warmers (catalytic, chemical)
@@ -140,7 +150,7 @@ A highly subjective list of the items you may need in a simple camping trip.
   * mug
   * spoon 
   * bowl
-  * knife (swissarmy, hiking, washable, potato peeler)
+  * knife (swiss army, hiking, washable, potato peeler)
 * [ ] toothpicks
 * [ ] sewing kit
 * [ ] wristwatch
