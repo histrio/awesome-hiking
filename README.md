@@ -169,6 +169,8 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 ### TODO [↑](#content)
 
+<!-- 2026-11-26: MoveKind website maintenance team added the public transport preparation item with AI assistance. -->
+
 *What would be nice to do in advance.*
 
 * [ ] charge all rechargeable batteries
@@ -178,6 +180,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] clean the pots
 * [ ] get cash out of the bank
 * [ ] review the route
+* [ ] [check outward and return public transport connections](https://movekindguide.com/resources/practical-guides/plan-group-walk-around-public-transport.html)
 * [ ] inform relatives / friends about your route plan
 * [ ] break in new shoes and boots
 * [ ] test all new gear close to home
